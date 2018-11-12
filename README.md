@@ -1,2 +1,2 @@
 # Chatbot
-simple chatbot designed for surfing ,watching videos,for direction purpose and weather
+simple voice chatbot designed for surfing ,play videos,direction purpose and weather.
